@@ -3,7 +3,8 @@
     Hey There!, I am
     <b>Suvo Roy</b>
     <br>
-    <b>Assistant Tech Staff | Team Manager | GAOTek Inc.</b>
+    <b>Executive - Website Maintenance | United ABC International </b>
+    <b>Ex. Assistant Tech Staff | Team Manager | GAOTek Inc.</b>
   </samp>
 </h3>
 
